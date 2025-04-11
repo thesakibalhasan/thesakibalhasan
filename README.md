@@ -29,11 +29,6 @@
 
 ---
 
-### 📫 Connect with Me
-You can reach out to me anytime!  
-(You can put your social links like GitHub/Discord/Email here.)
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sakib-dev&label=Profile%20views&color=0e75b6&style=flat" alt="sakib-dev" />
