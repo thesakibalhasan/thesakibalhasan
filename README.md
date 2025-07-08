@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-react-55bed5?logo=react&logoColor=000&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-next.js-000?logo=next.js&logoColor=fff&style=for-the-badge" />
-  
+  <img scr="https://img.shields.io/badge/-typescript-000?logo=typescript&logoColor=fff&style=for-the-badge" />
 </p>
 
 ---
